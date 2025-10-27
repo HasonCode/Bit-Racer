@@ -1,2 +1,2 @@
 # Bit-Racerr
-Funny Discription
+Funny Description
